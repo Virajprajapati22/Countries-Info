@@ -1,3 +1,9 @@
+This Web application content all Countries information i.e., basics like country name, flags, etc.
+
+This web application is made from a react-redux.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
